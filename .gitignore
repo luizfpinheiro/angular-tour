@@ -16,6 +16,8 @@
 *.launch
 .settings/
 *.sublime-workspace
+.bash_aliases
+.bash_aliases.backup
 
 # IDE - VSCode
 .vscode/*
